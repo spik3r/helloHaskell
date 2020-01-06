@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6d3962c-519c-4a2a-a99a-ff93c0c10aae" name="Default Changelist" comment="" />
+    <list default="true" id="b6d3962c-519c-4a2a-a99a-ff93c0c10aae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Main.hs" beforeDir="false" afterPath="$PROJECT_DIR$/app/Main.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/package.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VmYZkYSAocTwD2jrybZP4xfvH2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -24,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -72,7 +82,7 @@
       <workItem from="1577872805706" duration="1877000" />
       <workItem from="1577875406415" duration="49000" />
       <workItem from="1577875466591" duration="31000" />
-      <workItem from="1577875561193" duration="9276000" />
+      <workItem from="1577875561193" duration="10027000" />
     </task>
     <servers />
   </component>
@@ -104,10 +114,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578218281411" />
-    <state x="386" y="207" width="667" height="486" key="find.popup" timestamp="1577876512604">
+    <state x="386" y="207" width="667" height="486" key="find.popup" timestamp="1578310852342">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="386" y="207" width="667" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1577876512604" />
+    <state x="386" y="207" width="667" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1578310852342" />
+    <state x="114" y="176" key="new project wizard" timestamp="1578307352477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="114" y="176" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1578307352477" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578215265002">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
